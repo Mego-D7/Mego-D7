@@ -90,10 +90,12 @@
   
 <br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 style="margin: 0; margin-right: 10px;font-size: 24px;">My Github Stats</h3>
+<h3 style="margin: 0 0 15px; font-size: 24px; text-align:center;">
+  ✨ My Github Stats ✨
+</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mego-D7&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br><br><br><br><br><br><br>
+<br><br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mego-D7&show_icons=true&theme=dark&locale=en" 
        alt="Mego-D7" align="left" style="float:left; margin-right:10px;" />
