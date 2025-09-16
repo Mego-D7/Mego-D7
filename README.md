@@ -62,13 +62,31 @@
 
 <br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-- ## 📚 **Knowledge & Certifications**
-  | **Networking & Systems:** COMPTIA A+, CCNA, MCSA, COMPTIA Linux+, COMPTIA Security+, Windows PowerShell & CMD | **Web Security:** OWASP Top 10 (2021), Web Servers (Apache, Nginx), WAF, HTTP/HTTPS Protocols, Cookies & Session Management |
-  | **Certifications From:** Simplilearn, MaharaTech (CCNA, Linux Admin, Red Hat SysAdmin I & II, C++, HTML/CSS, JavaScript, PHP, SQL, Python) |
-- ## 🧠 **Experience**
-  | **Practical:** Solved **all 269 PortSwigger Web Security Labs**, completed DVWA (easy & medium levels), TryHackMe challenges, ongoing CTF solving |  
-  | **Theoretical:** 9 months of intensive Web Penetration Testing study, solid fundamentals in cybersecurity, networking, and programming |  
-  | **Other:** Previous **1 year Front-End Development** experience (HTML, CSS, JavaScript) |
+<!-- 📚 Knowledge & Certifications -->
+<h2 align="center">✨📚 <span style="color:#4CAF50;">Knowledge & Certifications</span> ✨</h2>
+
+<table>
+  <tr>
+    <td><b>Networking & Systems:</b> COMPTIA A+, CCNA, MCSA, COMPTIA Linux+, COMPTIA Security+, Windows PowerShell & CMD</td>
+  </tr>
+  <tr>
+    <td><b>Web Security:</b> OWASP Top 10 (2021), Web Servers (Apache, Nginx), WAF, HTTP/HTTPS Protocols, Cookies & Session Management</td>
+  </tr>
+  <tr>
+    <td><b>Certifications From:</b> Simplilearn, MaharaTech (CCNA, Linux Admin, Red Hat SysAdmin I & II, C++, HTML/CSS, JavaScript, PHP, SQL, Python)</td>
+  </tr>
+</table>
+
+---
+
+<!-- 🧠 Experience -->
+<h2 align="center">⚡🧠 <span style="color:#2196F3;">Experience</span> ⚡</h2>
+
+<ul>
+  <li><b>Practical:</b> Solved <b>all 269 PortSwigger Web Security Labs</b>, completed DVWA (easy & medium), TryHackMe challenges, ongoing CTF solving</li>
+  <li><b>Theoretical:</b> 9 months of intensive Web Penetration Testing study, solid fundamentals in cybersecurity, networking, and programming</li>
+  <li><b>Other:</b> Previous <b>1 year Front-End Development</b> experience (HTML, CSS, JavaScript)</li>
+</ul>
   
 <br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
