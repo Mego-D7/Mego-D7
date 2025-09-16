@@ -16,7 +16,7 @@
   - Basic CTF solver & trained at Omal Masr Complex.  
 - 📜 **Certifications:** CCNA, Red Hat SysAdmin I & II, Linux Admin, OWASP Top 10, multiple programming certs.  
 - 🚀 Preparing for **Bug Bounty Hunting** & open to **Entry-Level Web Pentesting** opportunities.  
-- 📫 **Find Me:** [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com)
+- 📫 **Find Me:** [LinkedIn](https://www.linkedin.com/in/magdy-ahmed-73262a336/) • [GitHub](https://github.com/Mego-D7)
 
 <br>
 
