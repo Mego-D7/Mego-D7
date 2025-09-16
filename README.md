@@ -15,7 +15,8 @@
 - 📜 **Certifications:** CCNA, Red Hat SysAdmin I & II, Linux Admin, OWASP Top 10, multiple programming certs.  
 - 🚀 Preparing for **Bug Bounty Hunting** & open to **Entry-Level Web Pentesting** opportunities.  
 - 📫 **Find Me:** [LinkedIn](https://www.linkedin.com/in/magdy-ahmed-73262a336/) • [GitHub](https://github.com/Mego-D7)
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
 - ## 🖥 **Programming Languages**
@@ -58,7 +59,8 @@
   <img src="https://img.shields.io/badge/Commix-222222.svg?style=flat"/>
   <img src="https://img.shields.io/badge/Metasploit-003A6E.svg?logo=metasploit&logoColor=white&style=flat"/>
 </div>
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 - ## 📚 **Knowledge & Certifications**
   | **Networking & Systems:** COMPTIA A+, CCNA, MCSA, COMPTIA Linux+, COMPTIA Security+, Windows PowerShell & CMD | **Web Security:** OWASP Top 10 (2021), Web Servers (Apache, Nginx), WAF, HTTP/HTTPS Protocols, Cookies & Session Management |
@@ -67,10 +69,15 @@
   | **Practical:** Solved **all 269 PortSwigger Web Security Labs**, completed DVWA (easy & medium levels), TryHackMe challenges, ongoing CTF solving |  
   | **Theoretical:** 9 months of intensive Web Penetration Testing study, solid fundamentals in cybersecurity, networking, and programming |  
   | **Other:** Previous **1 year Front-End Development** experience (HTML, CSS, JavaScript) |
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
+<br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h3 style="margin: 0; margin-right: 10px;font-size: 24px;">My Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mego-D7&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mego-D7&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+</a>
